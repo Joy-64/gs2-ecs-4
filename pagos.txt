@@ -1,0 +1,1 @@
+Se agrega validación de pagos.
